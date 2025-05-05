@@ -1,4 +1,4 @@
-# Sequences: Lists[], Tuples()) & Sets{}
+# Sequences: Lists[], Tuples() & Sets{}
 
 mylist = [0, 1, 2, "two", 3.2, False]
 

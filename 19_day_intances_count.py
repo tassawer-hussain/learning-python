@@ -23,6 +23,6 @@ def count_days(theyear, themonth, whichday):
 
 testyear = 2026
 testmonth = 5
-testday = 5 # o=MON - 6-SUN
+testday = 5 # 0E=MON - 6-SUN
 
 print(count_days(testyear, testmonth, testday))

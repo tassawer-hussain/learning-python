@@ -25,7 +25,7 @@
 #     print( greeting, name)
 # # default_parameter_func("How are you doing toady")
 # default_parameter_func("How are you doing toady", "Tassawer")
-# # we can change the parameters order but have to provide the name of paraeters
+# # we can change the parameters order but have to provide the name of parameters
 # default_parameter_func(name="Tassawer", greeting="How are you doing toady")
 
 # variable number of prameters
